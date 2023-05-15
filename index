@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>圓形圖片</title>
+	<style>
+		img.circular {
+			border-radius: 50%;
+			display: block;
+			margin: auto;
+			width: 200px;
+		}
+	</style>
+</head>
+<body>
+	<img class="circular" src="your-image-source-here.jpg" alt="Your Image">
+</body>
+</html>
